@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**LipePeglow/LipePeglow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Olá/Hey👋</h1>
+   
+   <h2>Seja Bem Vindo/Welcome😎</h2>
+   
+ - 📚Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
+ - 🤓Aprendendo JavaScript-React/Java-Spring
+ - 😄 Pronouns: ele/dele
+ <div>
+  <a href="https://github.com/LipePeglow/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePeglow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePeglow&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ <img align="center" alt="lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lipe-CSS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="lipe-CSS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  
