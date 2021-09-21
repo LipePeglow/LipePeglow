@@ -3,7 +3,7 @@
    <h2>Seja Bem Vindo/Welcome😎</h2>
    
  - 📚Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
- - 🤓Aprendendo JavaScript-React/Java-Spring
+ - 🤓Futuro DEV Full Stack |DEVinHouse| JS React e Java Spring
  - 😄 Pronouns: ele/dele
   ##
  <div>
@@ -25,7 +25,7 @@
  <a href="https://www.instagram.com/lipe_peglow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a> 	
  <a href = "mailto:peglow48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/LipePeglow/LipePeglow/blob/output/github-contribution-grid-snake.svg)
   
  </div>
    
