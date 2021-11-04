@@ -1,10 +1,11 @@
  ## <h1>Olá/Hey👋</h1>
    
    <h2>Seja Bem Vindo/Welcome😎</h2>
+   
  - 👨‍💻 Desemvolvedor Android (Kotlin)
  - 📚 Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
  - 😄 Pronouns: ele/dele
-  ##
+  
  <div>
   <a href="https://github.com/LipePeglow/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipePeglow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
