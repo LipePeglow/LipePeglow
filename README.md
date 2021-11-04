@@ -1,9 +1,8 @@
  ## <h1>Olá/Hey👋</h1>
    
    <h2>Seja Bem Vindo/Welcome😎</h2>
-   
- - 📚Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
- - 🤓Futuro DEV Full Stack |DEVinHouse| JS React e Java Spring 🚀
+ - 👨‍💻 Desemvolvedor Android (Kotlin)
+ - 📚 Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
  - 😄 Pronouns: ele/dele
   ##
  <div>
