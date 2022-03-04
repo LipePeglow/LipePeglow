@@ -2,7 +2,7 @@
    
    <h2>Seja Bem Vindo/Welcome😎</h2>
    
- - 👨‍💻 Desenvolvedor Android (Kotlin)
+ - 👨‍💻 Mobile Developer
  - 📚 Aluno de Analise e Desenvolvimento de Sistemas (Unicesumar)
  - 😄 Pronouns: ele/dele
   
